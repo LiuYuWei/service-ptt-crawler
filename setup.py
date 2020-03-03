@@ -11,7 +11,7 @@ with open('LICENSE') as f:
 
 setup(
     project_name='service-ptt-crawler',
-    project_version='0.1.0',
+    project_version='0.1.1',
     description='In this project, we use python to craw the ptt content.',
     long_description=readme_text,
     author='Simon Liu',
