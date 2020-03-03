@@ -1,0 +1,10 @@
+project:
+  path: '' #your project develope path
+
+postgresql:
+  username: 'postgres'
+  password: 'changeme'
+  host: '192.168.33.10'
+  port: 5432
+  dbname: 'ems_database'
+  use_ssl: False
